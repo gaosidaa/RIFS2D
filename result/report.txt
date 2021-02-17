@@ -1,0 +1,11 @@
+./result/acc/
+start: rank in t-test and sort in unincreased order of Accuracy
+./result/distance/
+start1: t-test rank of one subblock
+start2: t-test rank of the other subblock
+pearsonr: PCC value between two subblocks
+./result/rel/
+start: rank in t-test of starting subblock
+dtree/KNN/lsvc/lr/gnb: Accuracy of five classifiers
+Number: number of features in final solution
+subblock: detailed features (t-test rank) of final solution
